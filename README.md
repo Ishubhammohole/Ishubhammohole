@@ -29,6 +29,7 @@ Machine Learning · Cloud-native Security · AI for Scientific Computing · Open
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shubham-mohole-245a501b2/)
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/Ishubhammohole)
+📧 [Email](mailto:shumoh2000@gmail.com) 
 
 ---
 
