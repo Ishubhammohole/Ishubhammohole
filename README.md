@@ -1,52 +1,60 @@
-<h1 align="center">Hi 👋, I'm Shubham Mahesh Mohole</h1>
+# Hi 👋, I'm Shubham Mahesh Mohole
 
-<p align="center">
-🚀 Master's Student | Full Stack Developer | AI/ML Researcher <br>
+![Profile views](https://komarev.com/ghpvc/?username=Ishubhammohole&color=blueviolet)
+
+🚀 Master's Student | Full Stack Developer | AI/ML Researcher  
 🔍 Passionate about building scalable systems and advancing AI research.
-</p>
+
+Welcome to my GitHub! 🚀  
+I’m passionate about contributing to open-source, exploring scalable architectures, and advancing AI research.
 
 ---
 
-### 📌 Currently:
+## 📌 Currently:
+
 - 🎓 Master's in Computer Science at **University at Buffalo, SUNY** _(Expected Dec 2025)_
-- 🌟 Google Summer of Code 2025 (CNCF - KubeArmor Proposal)
+- 🌟 **Google Summer of Code 2025** (CNCF - KubeArmor Proposal)
 - 🛠️ Actively contributing to open-source security observability projects
 
-### 💼 Past Experiences:
-- **Systems Engineer, Infosys Ltd.**
-  - Engineered banking solutions saving **$500K annually**
-  - Automated workflows and deployed cloud-native monitoring systems (Prometheus, Grafana)
-- **Research Assistant, PMS Robotics Lab**
-  - Developed ML models improving sensor calibration by **25%**
-  - Enhanced motion control accuracy and solved 30+ integration issues
+---
 
-### 🛠️ Tech Stack:
+## 💼 Past Experiences:
+
+### Systems Engineer, Infosys Ltd.
+- Engineered banking solutions saving **\$500K annually**.
+- Automated workflows and deployed cloud-native monitoring systems (Prometheus, Grafana).
+
+### Research Assistant, PMS Robotics Lab
+- Developed ML models improving sensor calibration by **25%**.
+- Enhanced motion control accuracy and solved **30+ integration issues**.
+
+---
+
+## 🛠️ Tech Stack:
+
 `Python` `Java` `C++` `Spring Boot` `Kubernetes` `Docker` `Prometheus` `Grafana` `PyTorch` `TensorFlow` `SQL` `GitHub Actions`
 
-### 🌱 Interests:
-Machine Learning · Cloud-native Security · AI for Scientific Computing · Open Source · Robotics · System Optimization
+---
 
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shubham-mohole-245a501b2/)
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/Ishubhammohole)
-📧 [Email](mailto:shumoh2000@gmail.com) 
+## 🌱 Interests:
+
+`Machine Learning` · `Cloud-native Security` · `AI for Scientific Computing` · `Open Source` · `Robotics` · `System Optimization`
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishubhammohole&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ishubhammohole&theme=radical" alt="GitHub Streak" />
-</p>
+## 📬 Connect with me:
 
-### 🏆 Badges:
-<p align="center">
-  <img src="https://img.shields.io/badge/GSoC%202025-Proposal%20Stage-orange" alt="GSoC Badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen" alt="Open Source" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ishubhammohole.Ishubhammohole" alt="Visitors" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-mohole-245a501b2/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ishubhammohole)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shumoh2000@gmail.com)
 
 ---
 
-⭐️ *Fun Fact:*  
-_“Exploring observability tools to make distributed systems more reliable and transparent!”_
+## 📊 GitHub Stats & Activity:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishubhammohole&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ishubhammohole&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
