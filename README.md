@@ -8,16 +8,17 @@
 ---
 
 ### 📌 Currently:
-- 🎓 Master’s in Computer Science at **University at Buffalo, SUNY** _(Expected Dec 2025)_
+- 🎓 Master's in Computer Science at **University at Buffalo, SUNY** _(Expected Dec 2025)_
 - 🌟 Google Summer of Code 2025 (CNCF - KubeArmor Proposal)
-- 🛠️ Contributing to open-source security observability projects.
+- 🛠️ Actively contributing to open-source security observability projects
 
 ### 💼 Past Experiences:
 - **Systems Engineer, Infosys Ltd.**
-  - Engineered banking solutions saving **\$500K annually**.
-  - Automated workflows and deployed cloud-native monitoring systems.
+  - Engineered banking solutions saving **$500K annually**
+  - Automated workflows and deployed cloud-native monitoring systems (Prometheus, Grafana)
 - **Research Assistant, PMS Robotics Lab**
-  - Developed ML models improving sensor calibration by **25%**.
+  - Developed ML models improving sensor calibration by **25%**
+  - Enhanced motion control accuracy and solved 30+ integration issues
 
 ### 🛠️ Tech Stack:
 `Python` `Java` `C++` `Spring Boot` `Kubernetes` `Docker` `Prometheus` `Grafana` `PyTorch` `TensorFlow` `SQL` `GitHub Actions`
@@ -47,4 +48,4 @@ Machine Learning · Cloud-native Security · AI for Scientific Computing · Open
 ---
 
 ⭐️ *Fun Fact:*  
-_“I love exploring how observability tools can make distributed systems more reliable and transparent!”_
+_“Exploring observability tools to make distributed systems more reliable and transparent!”_
