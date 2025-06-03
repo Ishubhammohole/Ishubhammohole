@@ -13,7 +13,6 @@ I’m passionate about contributing to open-source, exploring scalable architect
 ## 📌 Currently:
 
 - 🎓 Master's in Computer Science at **University at Buffalo, SUNY** _(Expected Dec 2025)_
-- 🌟 **Google Summer of Code 2025** (CNCF - KubeArmor Proposal)
 - 🛠️ Actively contributing to open-source security observability projects
 
 ---
