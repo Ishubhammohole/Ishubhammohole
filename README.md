@@ -4,65 +4,84 @@
 
 🚀 M.S. in Computer Science @ University at Buffalo  
 💻 Full-Stack Engineer | Backend & Cloud Systems | Applied AI/ML  
-🔍 Passionate about building scalable systems, developer tools, and AI-powered platforms
+🔍 Passionate about building **scalable systems**, **developer tools**, and **AI-powered platforms**  
 
-Welcome to my GitHub!  
-I enjoy working on **production-grade backend systems**, **cloud-native architectures**, and **applied AI research**, with a strong focus on clean design and real-world impact.
+Welcome to my GitHub! I love **building production-grade systems**, exploring **cloud-native architectures**, and doing **applied AI research**, all with clean design and real-world impact.  
 
-🌐 **Portfolio:** https://portfolio-huk.pages.dev
+🌐 **Portfolio:** [portfolio-huk.pages.dev](https://portfolio-huk.pages.dev)
+
+---
+
+## 🎯 Fun Facts About Me
+
+- 🎮 Gamer at heart | 🏃‍♂️ Marathon runner | ☕ Coffee aficionado  
+- 🤖 Currently experimenting with **robotic navigation + AI**  
+- 🎨 Love turning complex ideas into **beautiful, usable systems**  
 
 ---
 
 ## 📌 Currently
 
-- 🎓 Master’s in Computer Science, **University at Buffalo (SUNY)** _(Expected Dec 2025)_
-- 🤖 Research Assistant working on **robotic navigation, robustness, and sim-to-real transfer**
-- 🌍 Actively contributing to **open-source and developer tooling projects**
+- 🎓 Master’s in Computer Science, **University at Buffalo (SUNY)** _(Expected Dec 2025)_  
+- 🤖 Research Assistant working on **robotic navigation, robustness, and sim-to-real transfer**  
+- 🌍 Contributing to **open-source & developer tooling projects**
 
 ---
 
 ## 💼 Experience
 
 ### Software Engineer / Full-Stack Developer — Infosys
-- Built and deployed **12+ Java/Spring Boot microservices** supporting **5M+ daily financial transactions**
-- Designed scalable payment and reporting systems, reducing annual operational costs by **\$500K**
-- Optimized MySQL and Redis-backed services, achieving **90% query latency reduction**
-- Worked extensively with **Docker, Kubernetes, CI/CD pipelines, and production monitoring**
+- Built and deployed **12+ Java/Spring Boot microservices** supporting **5M+ daily transactions**  
+- Reduced annual operational costs by **\$500K** with scalable payment/reporting systems  
+- Optimized MySQL & Redis-backed services, achieving **90% query latency reduction**  
+- Worked extensively with **Docker, Kubernetes, CI/CD pipelines, and monitoring**
 
 ### Research Assistant — Robotics & AI Lab (University at Buffalo)
-- Conducted research on **robot navigation failures** caused by sensor noise and environment uncertainty
-- Built data pipelines and feature extraction systems to improve **generalization in unseen environments**
-- Designed controlled experiments and robustness benchmarks for real-world deployment
+- Researched **robot navigation failures** caused by sensor noise & environmental uncertainty  
+- Built **data pipelines & feature extraction systems** to improve generalization in unseen environments  
+- Designed **controlled experiments & robustness benchmarks** for real-world deployment  
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Python` `Java` `TypeScript` `C++`
+`Python` `Java` `TypeScript` `C++`  
 
 **Backend & Systems:**  
-`Spring Boot` `FastAPI` `Microservices` `REST APIs`
+`Spring Boot` `FastAPI` `Microservices` `REST APIs`  
 
 **Cloud & DevOps:**  
-`Docker` `Kubernetes` `Jenkins` `GitHub Actions` `Prometheus` `Grafana`
+`Docker` `Kubernetes` `Jenkins` `GitHub Actions` `Prometheus` `Grafana`  
 
 **Databases:**  
-`MySQL` `PostgreSQL` `Redis`
+`MySQL` `PostgreSQL` `Redis`  
 
 **AI / ML:**  
-`PyTorch` `TensorFlow` `Diffusion Models` `Computer Vision`
+`PyTorch` `TensorFlow` `Diffusion Models` `Computer Vision`  
+
+<p align="center">
+  <b>Skill Levels</b>
+</p>
+<p align="center">
+  Python: 🟩🟩🟩🟩🟩<br>
+  Java: 🟩🟩🟩🟩🟧<br>
+  TypeScript: 🟩🟩🟩🟧🟧<br>
+  C++: 🟩🟩🟧🟧🟧<br>
+  Docker/K8s: 🟩🟩🟩🟩🟧<br>
+  ML/AI: 🟩🟩🟩🟧🟧
+</p>
 
 ---
 
 ## 🌱 Interests
 
 `Backend Engineering` · `Distributed Systems` · `Cloud Infrastructure` ·  
-`Applied AI` · `Developer Productivity` · `Open Source`
+`Applied AI` · `Developer Productivity` · `Open Source`  
 
 ---
 
-## 📬 Connect with me
+## 📬 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-huk.pages.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhammohole)
@@ -75,5 +94,21 @@ I enjoy working on **production-grade backend systems**, **cloud-native architec
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ishubhammohole&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ishubhammohole&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishubhammohole&theme=tokyonight&hide_border=true" height="165"/>
 </p>
+
+---
+
+## ⚡ Let’s Play a Game! 🎲
+
+Try visiting my repos and guess which one:
+
+1. 🐱‍💻 Is a **production-ready distributed system**  
+2. 🤖 Uses **AI/ML for robotic navigation**  
+3. ☁️ Runs fully on **Docker + Kubernetes**
+
+(Hint: look at `distributed-rate-limiter`, `DevSync-AI`, and `Text-to-Image-Generation`)  
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
