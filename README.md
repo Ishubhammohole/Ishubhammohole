@@ -43,7 +43,7 @@
 - [Portfolio](https://shubhammohole.vercel.app)  
 - [LinkedIn](https://www.linkedin.com/in/shubham-mohole/)  
 - [GitHub](https://github.com/ishubhammohole)  
-- Email: shubham.mohole@example.com  
+- Email: shumoh2000@gmail.com  
 
 ---
 
