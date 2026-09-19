@@ -156,23 +156,43 @@ public:
 
 ---
 
-# 🌍 Open Source
+# 🌍 Open Source Contributions
 
-I enjoy jumping into unfamiliar codebases, reproducing bugs, understanding existing architecture, writing regression tests, and contributing fixes upstream.
+I actively contribute to external open-source projects across **C++, Python, Java, developer tooling, and infrastructure** — working on bug fixes, regression tests, reliability improvements, and production codebases.
 
 ### 🎬 Academy Software Foundation — OpenTimelineIO
 
-**PR #2049 — Fix orphan range queries with null parents**
+**C++ · Debugging · Regression Testing**
 
-[![Pull Request](https://img.shields.io/badge/VIEW_PR_%232049-8957E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AcademySoftwareFoundation/OpenTimelineIO/pull/2049)
+[![PR](https://img.shields.io/badge/PR_%232049-Fix_orphan_range_queries-8957E5?style=for-the-badge&logo=github)](https://github.com/AcademySoftwareFoundation/OpenTimelineIO/pull/2049)
 
-- 🛡️ Fixed orphan `Item` and `Transition` parent-range handling
-- 🔍 Hardened composition ancestry traversal against null-parent access
-- 🧪 Added C++ regression coverage for orphan range-query paths
-- ✅ Validated changes through build, test suite and CI
+- Fixed null-parent handling in orphan `Item` and `Transition` range queries
+- Hardened composition ancestry traversal against invalid parent access
+- Added C++ regression tests covering orphan range-query paths
+- Validated changes through build, tests, and CI
 
-**Tech:** `C++` · `Debugging` · `Regression Testing` · `Open Source`
+### 🔧 Other Open-Source Work
 
+Contributed across projects in ecosystems including:
+
+`Microsoft` · `aio-libs` · `Meilisearch` · `Academy Software Foundation` · `Java` · `Python` · `C++`
+
+Recent contributions include:
+
+- `aio-libs/aiomysql`
+- `microsoft/ebpf-for-windows`
+- `meilisearch/meilisearch-java`
+- `mid0/mido`
+- `eko/gocache`
+- `dancormier/openwebui-claude-agent-pipe`
+- `yunaremaia/gfi`
+- `yunaremaia/taintrace`
+
+<div align="center">
+
+### 🔀 14+ External Pull Requests · 🌐 Contributions Across 40+ Repositories
+
+</div>
 ---
 
 # 📊 GitHub Analytics
