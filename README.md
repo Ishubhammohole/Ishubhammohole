@@ -1,282 +1,52 @@
 <div align="center">
 
-# 👋 Hi, I'm Shubham Mohole
+# Hi, I'm Shubham Mohole 👋
 
-### 🤖 Robotics Software Engineer · ⚙️ Backend & Distributed Systems · 🧠 Applied AI/ML
+**Robotics Software Engineer · Backend & Distributed Systems · Applied AI/ML**
+M.S. Computer Science @ University at Buffalo
 
-**M.S. Computer Science @ University at Buffalo**
+Building reliable software for robots, distributed systems, and intelligent applications.
 
-Building reliable software for **robots, distributed systems, and intelligent applications.**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shubhammohole.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhammohole)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ishubhammohole)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shumoh2000@gmail.com)
+[Portfolio](https://shubhammohole.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/shubhammohole) · [Email](mailto:shumoh2000@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## Featured Work
 
-```cpp
-class Shubham {
-public:
-    std::string focus = "Robotics + Systems + AI";
+**[Distributed Rate Limiter](https://github.com/Ishubhammohole/distributed-rate-limiter)** — Production-grade rate limiting service using Redis + Lua for atomic enforcement, multiple algorithms, Prometheus/Grafana observability, and a benchmark suite.
+`Java · Redis · Lua · Docker · Prometheus · Grafana`
 
-    std::vector<std::string> languages = {
-        "C++", "Python", "Java", "TypeScript", "SQL"
-    };
+**[Distributed Task Queue Engine](https://github.com/Ishubhammohole/Distributed-Task-Queue-Engine)** — Task-processing infrastructure focused on concurrency, reliability, and fault tolerance.
+`Java · Distributed Systems · Concurrency · Fault Tolerance`
 
-    std::vector<std::string> interests = {
-        "Robotics Software",
-        "Distributed Systems",
-        "AI Infrastructure",
-        "Developer Tools"
-    };
+**[OpenTimelineIO — Academy Software Foundation](https://github.com/AcademySoftwareFoundation/OpenTimelineIO/pull/2049)** — Fixed null-parent handling in orphan `Item`/`Transition` range queries; hardened composition ancestry traversal; added C++ regression tests covering the fix.
+`C++ · Debugging · Regression Testing`
 
-    std::string currentlyBuilding() {
-        return "Reliable software for intelligent systems";
-    }
-};
-```
-
-- 🤖 Building **ROS 2 / C++ / Python** software for robotics and intelligent systems
-- ⚡ Interested in **robotics infrastructure, autonomy, perception & distributed systems**
-- 🧠 Optimized ML inference from **~92 ms → ~37 ms** using ONNX + TensorRT
-- ⚙️ Built backend systems supporting **millions of daily transactions**
-- 🚀 Improved backend throughput by **~90%** through performance optimization
-- 🔬 Experience with **sensor integration, diagnostics, telemetry & robotic validation**
-- 🌍 Active contributor to **open-source C++ and Python projects**
+**[DevSync-AI](https://github.com/DevSync-AI/kiro-devsync-ai)** — AI-powered developer tooling and workflow automation.
+`Python · AI Agents · Developer Tools`
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🤖 Robotics & Systems
-
-<p>
-<img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-</p>
-
-`ROS 2` · `rclcpp` · `TF2` · `URDF` · `DDS` · `Gazebo` · `Isaac Sim` · `CAN` · `Serial` · `Ethernet` · `Sensor Integration`
-
-### ⚙️ Backend & Distributed Systems
-
-<p>
-<img src="https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-</p>
-
-`REST APIs` · `Microservices` · `Caching` · `Concurrency` · `Idempotency` · `CI/CD` · `Observability`
-
-### 🧠 AI / ML
-
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
-</p>
-
-`Computer Vision` · `Vision Transformers` · `TensorRT` · `LLMs` · `RAG` · `LangGraph` · `Pinecone` · `AI Agents`
+**Robotics/Systems:** ROS 2 · rclcpp · TF2 · URDF · DDS · Gazebo · Isaac Sim · CAN · Serial
+**Backend:** Java · Spring Boot · REST APIs · Microservices · Redis · PostgreSQL · Docker · Kubernetes · AWS
+**AI/ML:** PyTorch · Computer Vision · Vision Transformers · TensorRT · ONNX · LLMs · RAG · LangGraph
 
 ---
 
-## ⚡ Engineering Impact
+## Open Source
 
-| Area | Impact |
-| :--- | :--- |
-| 🤖 **Robotics** | Built ROS 2 perception, sensor integration, diagnostics & telemetry software |
-| ⚡ **ML Performance** | Reduced inference latency from **~92 ms → ~37 ms** |
-| 🧠 **Computer Vision** | Improved benchmark F1 from **0.29 → 0.55** |
-| ⚙️ **Distributed Systems** | Worked on backend systems processing **millions of daily transactions** |
-| 🚀 **Performance** | Improved backend throughput by **~90%** |
-| 🛡️ **Reliability** | Implemented retries, idempotency, caching, logging & observability |
-| 🧪 **Validation** | Conducted evaluation across **1,000+ robotic runs** |
+Active contributor across C++, Python, and Java projects — bug fixes, regression tests, and reliability improvements. Recent work includes contributions to Academy Software Foundation, `aio-libs/aiomysql`, `microsoft/ebpf-for-windows`, and `meilisearch/meilisearch-java`, alongside 14+ external PRs across 40+ repositories.
 
 ---
-
-# 🌟 Featured Projects
-
-## ⚡ Distributed Rate Limiter
-
-> Production-grade distributed rate limiting infrastructure using **Redis + Lua atomic execution**.
-
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/Ishubhammohole/distributed-rate-limiter)
-
-**Highlights**
-- ⚡ Atomic Redis + Lua rate enforcement
-- 🔄 Multiple rate-limiting algorithms
-- 📊 Prometheus/Grafana observability
-- 🧪 Benchmark and performance suite
-- 🐳 Containerized deployment
-
-**Tech:** `Java` `Redis` `Lua` `Docker` `Prometheus` `Grafana`
-
----
-
-## 🧵 Distributed Task Queue Engine
-
-> Distributed task-processing infrastructure focused on **concurrency, reliability and fault tolerance**.
-
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/Ishubhammohole/Distributed-Task-Queue-Engine)
-
-**Focus:** `Java` · `Distributed Systems` · `Concurrency` · `Fault Tolerance`
-
----
-
-## 🧠 DevSync-AI
-
-> AI-powered developer tooling and workflow automation.
-
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/DevSync-AI/kiro-devsync-ai)
-
-**Focus:** `Python` · `AI Agents` · `Developer Tools` · `Automation`
-
----
-
-## 🎨 Text-to-Image Generation
-
-> Generative AI experimentation with a deployment-oriented inference workflow.
-
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/Ishubhammohole/Text-to-Image-Generation)
-
-**Focus:** `Python` · `Generative AI` · `ML Inference` · `Jupyter`
-
----
-
-# 🌍 Open Source Contributions
-
-I actively contribute to external open-source projects across **C++, Python, Java, developer tooling, and infrastructure** — working on bug fixes, regression tests, reliability improvements, and production codebases.
-
-### 🎬 Academy Software Foundation — OpenTimelineIO
-
-**C++ · Debugging · Regression Testing**
-
-[![PR](https://img.shields.io/badge/PR_%232049-Fix_orphan_range_queries-8957E5?style=for-the-badge&logo=github)](https://github.com/AcademySoftwareFoundation/OpenTimelineIO/pull/2049)
-
-- Fixed null-parent handling in orphan `Item` and `Transition` range queries
-- Hardened composition ancestry traversal against invalid parent access
-- Added C++ regression tests covering orphan range-query paths
-- Validated changes through build, tests, and CI
-
-### 🔧 Other Open-Source Work
-
-Contributed across projects in ecosystems including:
-
-`Microsoft` · `aio-libs` · `Meilisearch` · `Academy Software Foundation` · `Java` · `Python` · `C++`
-
-Recent contributions include:
-
-- `aio-libs/aiomysql`
-- `microsoft/ebpf-for-windows`
-- `meilisearch/meilisearch-java`
-- `mid0/mido`
-- `eko/gocache`
-- `dancormier/openwebui-claude-agent-pipe`
-- `yunaremaia/gfi`
-- `yunaremaia/taintrace`
 
 <div align="center">
 
-### 🔀 14+ External Pull Requests · 🌐 Contributions Across 40+ Repositories
+I'm interested in building software at the intersection of **Robotics · Distributed Systems · AI · Infrastructure**
 
-</div>
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ishubhammohole&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishubhammohole&layout=compact&hide_border=true&langs_count=8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ishubhammohole&hide_border=true" />
-
-</div>
-
----
-
-# 🎯 What I Like Building
-
-```text
-                    Intelligent Systems
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-          ▼                ▼                ▼
-       Robotics          Systems            AI
-          │                │                │
-      ROS 2 / C++      Distributed       Computer Vision
-      Perception       Systems           ML Inference
-      Sensors          Reliability       Agentic AI
-      Diagnostics      Performance       RAG / LLMs
-      Simulation       Infrastructure    AI Infrastructure
-```
-
----
-
-# 🧩 Engineering Philosophy
-
-```text
-Understand the problem
-        │
-        ▼
-Build the simplest reliable solution
-        │
-        ▼
-Measure real behavior
-        │
-        ▼
-Find the bottleneck
-        │
-        ▼
-Optimize
-        │
-        ▼
-Test failure cases
-        │
-        ▼
-Ship → Observe → Improve → Repeat
-```
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-I'm interested in building software at the intersection of
-
-### 🤖 Robotics · ⚙️ Distributed Systems · 🧠 AI · 🚀 Infrastructure
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shubhammohole.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhammohole)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ishubhammohole)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shumoh2000@gmail.com)
-
-<br/>
-
-### ⚡ Build. Measure. Debug. Improve. Repeat.
+[Portfolio](https://shubhammohole.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/shubhammohole) · [Email](mailto:shumoh2000@gmail.com)
 
 </div>
